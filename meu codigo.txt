@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Olá, meu nome é Bruna!
-Olá, esta é uma nova linha
-=======
-Olá, meu nome é Bruna de Andrade!
-Olá, eta é uma nova linha
->>>>>>> staging
